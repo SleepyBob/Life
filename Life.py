@@ -1,0 +1,15 @@
+
+print("LIFE")
+print("CREATIVE COMPUTING  MORRISTOWN, NEW JERSEY\n\n")
+print("ENTER YOUR PATTERN:")
+
+X1=1
+Y1=1
+X2=24
+Y2=70
+
+# DIM A(24,70),B$(24)
+C=1
+#30 INPUT B$(C)
+#40 IF B$(C)="DONE" THEN B$(C)="": GOTO 80
+
